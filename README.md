@@ -1,7 +1,7 @@
 # Sound-Volume-Tracker
 
-i can control Volume with 2 fingers
-- this code more accurate
+I can control the Volume with 2 fingers
+- this code is more accurate
   
 # video
 

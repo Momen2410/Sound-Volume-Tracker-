@@ -5,5 +5,5 @@ i can control Volume with 2 fingers
   
 # video
 
-https://github.com/Momen2410/Sound-Volume-Tracker-/assets/108630729/1d45d6fc-588d-4633-baba-133f1656232d
+https://github.com/Momen2410/Sound-Volume-Tracker-/assets/108630729/2217dfd8-6775-4510-bbe3-d8e993b9c05c
 
